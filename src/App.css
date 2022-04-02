@@ -1,0 +1,145 @@
+*{
+
+}
+
+body{
+  background-color: #f2efec;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  align-items: center;
+  vertical-align: middle;
+}
+
+.box{
+  border: 20px #73c2fb solid;
+  border-top: #73c2fb 85px solid;
+  border-bottom: #9acdf2 85px solid;
+  width: 350px;
+  height: 475px;
+  box-shadow: 10px 10px 5px 5px rgb(192, 202, 205);
+  border-radius: 5px;
+}
+
+.whiteBox{
+  border: black solid 3px; 
+  border-radius: 25px;
+  background-color: rgb(249, 226, 226);
+}
+
+.picBox{
+  
+
+}
+
+img{
+  display: block;
+  background-color: #58a0ed;
+  border-radius: 25px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+  height: 80%;
+  width: 80%;
+}
+
+.label{
+  text-align: center;
+  font-size: xx-large;
+}
+
+.des{
+  text-align: center;
+
+}
+
+
+
+
+
+
+
+
+
+
+/*
+.floating {
+  height: 100px;
+  border: 1px solid #f00;
+  display: table-cell;
+  vertical-align: middle;
+}
+.floating p {
+  display: table-cell; 
+  vertical-align: middle; 
+  text-align: center;
+}
+
+.shell{
+  /* border:aqua solid 2px;
+  border-bottom: crimson 10px solid;
+  min-height: 100%; *
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  align-items: center;
+}
+
+.picShell{
+
+}
+
+.qrDiv{
+
+}
+
+.img{
+  width: 300px;
+  height: auto;
+  border: solid 2px burlywood;
+}
+
+.wordShell{
+
+}
+
+.shell {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  border: 2px solid red;
+  border-radius: 25px;
+  width: 350px;
+  height: 550px;
+  /* flex-direction: column;
+  align-content: center;
+  flex-wrap: wrap; *
+  background-color: antiquewhite;
+}
+
+.picShell{
+  width: 200px;
+  height: 200px;
+  border: 5px solid aqua;
+  padding: 20px;
+  border-radius: 25px;
+  
+}
+
+.qrBackground{
+
+}
+
+.qrDiv{
+  align-items: top;
+}
+
+.wordShell{
+  background-color: aquamarine;
+}
+
+img{
+  max-height: 100%;
+  width: auto;
+}
+*/
